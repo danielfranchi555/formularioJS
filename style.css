@@ -1,0 +1,62 @@
+
+.titulo{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    border-bottom: solid 1px black;
+}
+.container{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    background-color: rgba(6, 122, 180, 0.245);
+    max-width: 450px;
+    border-radius: 10px ;
+}
+.row{
+ max-width: 500px;
+ margin: auto;
+}
+
+/* .form-floating{
+    /* background-color: rgba(122, 125, 125, 0.218); */
+    
+/* } */ */
+
+.form-control{
+    
+}
+.email{
+    color: black;
+    font-size: 18px;
+    
+}
+.password{
+    color: black;
+    font-size: 18px;
+}
+
+.nombre{
+    color: black;
+    font-size: 18px;
+}
+
+.error-container{
+    /* background-color: aqua; */
+    display: flex;
+    
+}
+p{
+    color: red;
+    padding:10px ;
+}
+.icono-error{
+    width:45px ;
+    padding: 10px;
+    height: 45px;
+}
+.icono-Correcto{
+    width:45px ;
+    padding: 10px;
+    height: 45px;
+}
